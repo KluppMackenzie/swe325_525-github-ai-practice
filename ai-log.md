@@ -38,18 +38,18 @@ Related GitHub URL: https://github.com/KluppMackenzie/swe325_525-github-ai-pract
 
 ## Interaction 3
 
-Date:
+Date: October 1, 2026
 
 Assistant: ChatGPT
 
-Purpose:
+Purpose: Create a checklist for reviewing my pull request before merging it.
 
-Prompt or summary:
+Prompt or summary: Asked ChatGPT to create a beginner-friendly pull-request review checklist based on the assignment requirements.
 
-Useful suggestion:
+Useful suggestion: The checklist helped me verify the pull request summary, issue link, acceptance criteria, commits, AI assistance, review comment, and other required information before merging.
 
-Decision: accepted / revised / rejected
+Decision: accepted
 
-Reason:
+Reason: I accepted the checklist because it gave me a way to verify the assignment requirements before merging my pull request.
 
-Related GitHub URL:
+Related GitHub URL:https://github.com/KluppMackenzie/swe325_525-github-ai-practice/issues/1

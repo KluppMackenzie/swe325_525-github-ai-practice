@@ -1,4 +1,15 @@
 # AI Use Log
+1. Which GitHub action or object was most useful to you, and why?
+   
+2. Which AI suggestion did you accept, and what made it useful?
+   i accepted the checklist it gave me. it helped me know exactly what i needed for subbmission(granted my wifi was bugging at home and then i ended up submitting late and then being to tired to send the actual submission as intended.)
+3. Which AI suggestion did you revise or reject, and why?
+   i didnt have the read.me it gave me but it also wasnt 100% certain of that i was doing as i only prompt it so i used it with intent and did what it recommended then the full on example it gave me.
+4. What did you verify yourself instead of trusting the AI?
+   as i mentioned in the last one. the context of the read.me.
+5. What would you change in your GitHub workflow next time?
+   make it more clear and concise i feel i was a mess doing this. and my brain wasnt working so i kept getting off topic/ what i said.
+    
 
 ## ## Interaction 1
 
